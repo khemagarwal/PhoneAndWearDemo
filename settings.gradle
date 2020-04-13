@@ -1,0 +1,3 @@
+rootProject.name='PhoneAndWearDemo'
+include ':app'
+include ':phoneandweardemo'
